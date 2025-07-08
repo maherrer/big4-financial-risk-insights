@@ -1,40 +1,34 @@
 # Big 4 Financial Risk Insights
 
-This project analyzes audit risk and compliance trends for Big 4 accounting firms from 2020–2025.  
-It includes exploratory data analysis (EDA), prediction models, and deliverables.
+This project analyzes audit risk and compliance data for the Big 4 firms (PwC, Deloitte, Ernst & Young, and KPMG) from 2020–2025.  
 
-## 📂 Contents
-
-- `Notebook.ipynb` – Main analysis notebook with code and results
-- `Report.pdf` – Final report summarizing findings and insights
-- `Slides.pdf` – Presentation slides
-- `big4_financial_risk_compliance.csv` – Data file used in the analysis
-
-## 🚀 Overview
-
-We used historical compliance and audit data to:
-- Perform EDA to identify key patterns
-- Build predictive models to forecast risk
-- Summarize findings in a report and presentation
-
-This repository demonstrates skills in data cleaning, visualization, modeling, and clear communication of insights.
-
-## ✅ How to Use
-
-1. Open `Notebook.ipynb` to review the analysis step by step.
-2. Refer to `Report.pdf` for a concise written summary.
-3. Check `Slides.pdf` for the presentation-ready visuals.
-
-## 🧰 Tools Used
-
-- Python
-- PySpark
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+It includes exploratory data analysis (EDA), predictions, Spark SQL business questions, and deliverables like a final report and slides.
 
 ---
 
-## 📌 Notes
+## 📂 Contents
 
-This portfolio project is designed for showcasing data science and analytics skills.
+- [Report](Report.pdf): Final written report summarizing the analysis.
+- [Slides](Slides.pdf): Presentation slides with key findings and visuals.
+- [Business Questions](Business_Questions.pdf): PDF answering critical business questions using Spark SQL.
+- [Notebook](Notebook.ipynb): Jupyter notebook with all code, analysis, and visualizations.
+- [big4_financial_risk_compliance.csv](big4_financial_risk_compliance.csv): Cleaned dataset used for analysis.
+
+---
+
+## 🧭 Project Highlights
+
+✅ Audit effectiveness analysis by AI usage  
+✅ Risk score trends across firms  
+✅ Compliance violation patterns  
+✅ Spark SQL queries to answer key business questions  
+✅ Visualizations of audit risk and compliance
+
+---
+
+## 🚀 Tools Used
+
+- PySpark and Spark SQL
+- Python (Pandas, Matplotlib)
+- Jupyter Notebook
+
