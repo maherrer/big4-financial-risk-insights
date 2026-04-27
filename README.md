@@ -32,3 +32,7 @@ It includes exploratory data analysis (EDA), predictions, Spark SQL business que
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook
 
+  ## 👥 Contributors
+- **Maybel Herrera**  
+- Jennifer Lopez
+
